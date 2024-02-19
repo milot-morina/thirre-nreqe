@@ -11,6 +11,12 @@ body {
   box-sizing: border-box;
 }
 
+p {
+  /* font-family: "Courier New", monospace; */
+  font-family: Tahoma, sans-serif;
+}
+
+
 .loader{
   background: black;
   color: white;
@@ -45,7 +51,12 @@ body {
 
 .logo{
   margin-left: 40px;
+  height: 80px;
+  border-radius: 35px; 
 }
+
+
+
 
 .section{
   display: flex;
@@ -118,6 +129,7 @@ body {
   width: 360px;
   margin-right: 10%;
   z-index: 1;
+  margin-left: 7%;
 }
 
 .section--third--container{
@@ -147,9 +159,12 @@ h2{
 
 footer{
   background: black;
-  padding: 70px;
   display: flex;
   justify-content: center;
+  height: 80px;
+}
+.footerLogo{
+  height: 88px;
 }
 
 .button--footer{
@@ -233,6 +248,11 @@ footer{
 .black{
   background-color: rgb(74, 76, 79);
 }
+
+
+
+
+
 
 /* MOBILE ADJUSTMENTS */
 

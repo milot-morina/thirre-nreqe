@@ -95,7 +95,7 @@ async function setupViewer(){
     if (isMobile){
         position.set(-3.5, -1.1, 5.5)
         target.set(-0.8, 1.55, -0.7)
-        camera.setCameraOptions({ fov: 40 })
+        camera.setCameraOptions({ fov: 50 })
     }
 
     onUpdate()
