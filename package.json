@@ -1,12 +1,11 @@
 {
-  "name": "threejs-gsap-webgi-course",
+  "name": "thirre-ndreqe",
   "version": "1.0.0",
-  "description": "WebGi + TypeScript example starter project",
+  "description": "Website for a handyman company",
   "main": "index.html",
   "author": {
-    "name": "Anderson Mancini",
-    "email": "andersonmancini30@gmail.com",
-    "url": "https://twitter.com/Andersonmancini/"
+    "name": "Milot Morina",
+    "email": "milot.m3@gmail.com"
   },
   "scripts": {
     "start": "parcel index.html",
